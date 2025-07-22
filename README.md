@@ -1,4 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Robert
+
+Systems admin turned automation nerd, now exploring DevOps with PowerShell, Python, and curiosity.
+
+### 🛠️ Current interests:
+- Building real-world utility scripts
+- Tidying systems through automation
+- Learning out loud (mistakes included)
+
+### 📚 Featured Projects
+Check out my [PowerShell tools](https://github.com/your-username/powershell-tools)—a curated mix of practical and archival scripts.
+
+---
 
 <!--
 **springbok104/springbok104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
