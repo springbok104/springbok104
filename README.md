@@ -11,14 +11,17 @@ Systems admin turned automation nerd, now exploring DevOps with PowerShell, Pyth
 Check out my [PowerShell tools](https://github.com/springbok104/powershell-tools) - a curated mix of practical and archival scripts.
 
 ## 🧰 Technologies & Tools I Use
-![Microsoft](https://img.shields.io/badge/-Microsoft-0078D6?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-0078D6?style=flat&logo=linux&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D6?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0078D6?logo=msazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0078D6?style=flat&logo=googlecloud&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-0078D6?style=flat&logo=windows-terminal&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-0078D6?style=flat&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D6?style=flat&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0078D6?style=flat&logo=docker&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=powershell,python,docker,azure)](https://skillicons.dev)
+
 
 ---
 
