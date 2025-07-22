@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Robert
 
-I'm a Windows systems administrator with hands-on experience in Windows Server environments, PowerShell automation, and secure infrastructure. After time away from full-time tech, I'm reconnecting with my strengths and expanding into DevOps, cloud tooling, and development in Python. My repos reflect practical work, learning in progress, and tools built to solve real problems.
+I'm a systems administrator returning to my technical roots. I’ve worked across Windows Server, PowerShell automation, and secure infrastructure, and I’m currently leaning into DevOps, Python, and cloud tooling. This GitHub reflects that transition, with real-world scripts, lessons learned, and projects in motion.
 
 ### 🛠️ Current interests:
 - Building real-world utility scripts
