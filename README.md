@@ -12,10 +12,8 @@ Check out my [PowerShell tools](https://github.com/springbok104/powershell-tools
 
 ## 🧰 Technologies & Tools I Use
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-4479A1?style=flat&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-008AD7?style=flat&logo=microsoftazure&logoColor=white)
-[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-2bbc8a?style=flat&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
