@@ -8,7 +8,7 @@ Systems admin turned automation nerd, now exploring DevOps with PowerShell, Pyth
 - Learning out loud (mistakes included)
 
 ### 📚 Featured Projects
-Check out my [PowerShell tools](https://github.com/your-username/powershell-tools)—a curated mix of practical and archival scripts.
+Check out my [PowerShell tools](https://github.com/springbok104/powershell-tools) - a curated mix of practical and archival scripts.
 
 ---
 
