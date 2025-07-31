@@ -7,7 +7,7 @@ I’m a Systems Administrator returning to tech with a focus on building, optimi
 ## 🛠️ What I'm Into These Days
 
 **Currently exploring:**
-- IaC with Bicep, hybrid CI/CD pipelines, and clean documentation  
+- Learning the ropes of IaC with Bicep and hybrid CI/CD pipelines  
 - Dockerized utilities for sysadmin tasks and monitoring setups  
 - Inclusive transformation strategies in South Africa’s tech space  
 - Automation that balances transparency, reliability, and user context  
