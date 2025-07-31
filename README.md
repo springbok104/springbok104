@@ -1,25 +1,39 @@
-## 👋 Hey, I'm Robert
+# 👋 Hey, I'm Robert
 
-I'm a systems administrator and IT professional with a passion for building, optimizing, and securing tech environments. From Cape Town to the cloud, my journey has spanned infrastructure management, systems engineering, and scripting solutions that make life easier. Whether it's automating workflows, coding in Python, or diving into DevOps, I'm all about steady growth and reinvention.
+I’m a Systems Administrator returning to tech with a focus on building, optimising, and managing infrastructure that works. From Cape Town to the cloud, my journey has spanned systems engineering, automation, and scripting solutions designed to make tech more accessible, resilient, and user-conscious. These days, I’m diving into DevOps workflows and Python development one practical step at a time.
 
-## 🛠️ What I'm into these days:
+---
 
-- Crafting scripts and tools to solve real-world problems
-- Streamlining processes and enhancing system efficiency
-- Exploring the intersection of infrastructure, code, and cloud
+## 🛠️ What I'm Into These Days
+
+**Currently exploring:**
+- IaC with Bicep, hybrid CI/CD pipelines, and clean documentation  
+- Dockerized utilities for sysadmin tasks and monitoring setups  
+- Inclusive transformation strategies in South Africa’s tech space  
+- Automation that balances transparency, reliability, and user context  
+
+**Also enjoy:**
+- Learning how tech decisions shape user experiences and expectations  
+- Mapping systems from the ground up. Logic, flow, and real constraints  
+- Curiosity about the invisible tech that keeps our lives ticking  
+- Occasionally tinkering with microcontrollers, dashboards, and home-grown tools
+
+---
+
+## 🧪 Learning Projects & Upcoming Experiments
+
+This space is reserved for projects currently brewing in the background. Updates coming soon
+
+---
 
 ## 📚 Featured Projects
 
-Check out my [PowerShell Achive](https://github.com/springbok104/Powershell-Archive) - a curated mix of practical and archival scripts. Or have a look at my pinned repos.
+Check out my [PowerShell Archive](https://github.com/springbok104/Powershell-Archive) - a curated mix of practical and legacy scripts for real-world automation. You’ll also find a few pinned repos that reflect where I’m heading and how I got here.
+
+---
 
 ## 🧰 Technologies & Tools
-![Microsoft](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-0078D6?style=flat&logo=&logoColor=white)
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0078D6?logo=&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0078D6?style=flat&logo=&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-0078D6?style=flat&logo=&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-0078D6?style=flat&logo=&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078D6?style=flat&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-0078D6?style=flat&logo=&logoColor=white)
 
-       
+> PowerShell · Python · Docker · Azure · Bicep · Windows Server · Git · VS Code · YAML · CI/CD · Active Directory · Hyper-V · Linux basics
+
+---
